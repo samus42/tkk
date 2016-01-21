@@ -11,7 +11,7 @@ There's a Calcified Fragment at the base of the pillar to your right.   Go ahead
 
 Oh, you had to go and teabag one of them, didn't you.  **Didn't you!**  Fine, after you wipe and it restarts, then take a look around.
 
-You should notice there's a big plate in the center which doesn't seem to do anything.  To the left and the right there are rooms, each with a shiny orb in front of them.  **Why did you pick the orb?  I'm not done yet!**
+You should notice there's a big plate in the center which doesn't seem to do anything.  To the left and the right there are rooms, each with a shiny orb in front of them.  **Why did you pick up the orb?  I'm not done yet!**
 
 *Sigh*.  Ok, now we've restarted again.  Go ahead and walk into one of the side rooms.  Notice how it's a bit misty?  Notice how your life starts going down?  It's poison!  Now there's also a plate at the end of the room with a pillar.....
 

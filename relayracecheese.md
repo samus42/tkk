@@ -64,4 +64,4 @@ Seriously, you can't do anything else to help them, and they're just going to sp
 #### Buy your side plate person a beer
 They deserve it.
 
-OK, hopefully you've made it through, and are ready to [kill the Warpriest](./warpriest)
+OK, hopefully you've made it through, and are ready to [kill the Warpriest](./warpriest.html)

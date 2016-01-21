@@ -1,0 +1,24 @@
+# Battleborn Taken King Guide
+*Written by a crazy person....*
+
+So you think you're ready to take on Oryx.  You weren't fooled by the end of the story missions.  You *know* he's still alive.  Come on, his sword he leaves behind falls to dust?  Obviously that was a prop. Honestly, we deserve better from our bad guys.  And why did he run away anyway?  He can kill us all with one clap of the hands!  Oh wait, you don't know that yet, ignore that part, let's move on...
+
+So you think you're ready to take on Oryx!!  Well there are 3 ways to do this
+1. The right way
+2. The wrong way
+3. The Battleborn way
+
+We obviously, are going to do this the **Battleborn way**.  If you want the other ways, find other guides.  Or drink a lot.  Its pretty much the same thing.
+
+For the most part, this guide will cover *Hard Mode* because it's just like normal mode, only....harder.  Seriously, most of the mechanics are the same save a couple of exceptions I'll call out.
+
+So let's start with what you need to bring on your raid:
+* Lots of free time
+* A set of sacrificial chickens.  If you need some, see Moe.  Tell him "Samus sent you" so you get the chickens with he *good* entrails.  I mean, you don't want second rate entrails.  Why were you even considering that?
+* A swear word thesaurus.
+* A child who will keep telling you that you're doing it wrong so you get a lot of dark side energy you can focus into the raid.  (Light side just isn't going to happen here)
+* * This guide
+* A Titan
+* Friends.  Forgiving friends.  Who owe you. Big time.
+
+OK, we've ready to rock!  Let's start with the [Portal room](./portalroom.html)!

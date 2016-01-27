@@ -2,3 +2,4 @@ html/
 *.zip
 .DS_Store
 main.css
+upload.py

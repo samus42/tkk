@@ -23,9 +23,7 @@ Sorry, caught a quick nap there.  Ok, now that you've landed successfully.  Let'
 
 I'll give it to Oryx, this was pretty clever.  If you've played other games with jumping at all, you've been trained to aim where the ledge meets the wall.  That will get you killed here.  Instead set your aim point to the edge of the ledge.
 
-Once you get your Calcified Fragment, turn around.  Your next ledge is in front of you and a bit above.  
-
-**TODO: Ledge in between?**
+Once you get your Calcified Fragment, turn around.  Your next ledge is in front of you and a bit below.  Then jump to the ledge above you that is very short so be careful.  
 
 Wait for the penis to retract, then go to the other side.  There's a small protrusion that makes itself down the wall that prevents you from seeing your next jump.  Jump straight up and you should see your next target in front of you.  Do a sprint jump over the protrusion and you should make it.  After the next penis in front of you pulls back, sprint along the rest of the ledge jumping over gaps until you reach a plate.
 

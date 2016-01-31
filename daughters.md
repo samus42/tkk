@@ -120,4 +120,4 @@ Frankly if you have people new to jumping platforms, and you have a bit of time,
 
 **A:** Maybe.  You can do this in 2 rounds, but you need to make sure everyone on the team can run platforms quickly and have high light level weapons.  Otherwise its pretty much guaranteed after killing the 1st sister, your slowest runner will get torn.  Frankly I've spent over and hour trying to get it done 'faster' in 2 rounds, only to go to a 3 round plan and get it done in one shot.
 
-The sisters are down, and after all the trials and tribulations, you're ready for the main event.  It's time to crush [Oryx](../oryx.html)!
+The sisters are down, and after all the trials and tribulations, you're ready for the main event.  It's time to crush [Oryx](./oryx.html)!

@@ -75,7 +75,7 @@ That pool is a *pool of reclaimed light*, it massively increases your damage to 
 
 **Q: I'm still getting hit by an orb every wave, and my health is quickly going down, is there anything else I can do?**
 
-**A:** If you have a Red Death, that will help a lot.  Blasting an orb counts as a "kill" which has a chance to heal you.  If you're a Hunter, then shadow stepping works for some people too.
+**A:** If you have a Red Death, that will help a lot.  Blasting an orb counts as a "kill" which has a chance to heal you.  If you're a Hunter, then shadow stepping works for some people too.  If you're a Hunter, Shade Stepping will cause the orbs to lose track of you.
 
 **Q: You said use a sniper to hit Golgoroth in the pit, I have a great Heavy Machine Gun, I can use that instead right?**
 

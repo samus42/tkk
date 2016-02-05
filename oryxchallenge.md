@@ -2,3 +2,6 @@
 ## Oryx Hard Mode (Challenge)
 
 ## COMING SOON
+###
+
+baiting the shade

@@ -108,7 +108,7 @@ Runner, after they take off, drop to the center and keep hitting Oryx in the che
 
 **A:** That's.....extreme.  You've got plenty of time up top, you can start hitting your Ogre before the countdown if need be.
 
-**Q: My ogre was really far away, and I died getting back to the center.  What do I do?
+**Q: My ogre was really far away, and I died getting back to the center.  What do I do?**
 
 **A:** That's the reason we have the 5 count.  In this case, go ahead and drop your Ogre at 2 and go so you have time to get there.  Same thing if your Ogre is really really close.  Drop your Ogre at 1, but wait a few seconds before entering the blight.
 
@@ -116,19 +116,19 @@ Runner, after they take off, drop to the center and keep hitting Oryx in the che
 The rest of the raid is exactly the same.  Air Raid/Shade, then Platforms/Ogres again.  What could go wrong?
 
 #### What could go wrong
-##### Dying when you're up top due to Oryx or Eyes or Ogres:
-Fix by exercising constructive cowardice.  When your blessing disappears, be back in the bubble immediately.
-##### Dying because you didn't make the jump to the Daughter's platform:  
-Fix by practicing before kicking off Oryx.
-##### Dying because the Ogre decides to pay attention to you cowering on the platform:
-Call out to the Guardian across from you to hit the Ogre in the back.  The Ogre will hesitate, and that should get you enough time for the runner to grab the pineapple.
-##### Dying because the ship blasted you:
-As much as I hate to say it, your runner probably isn't fast enough.  If your runner isn't getting to the Vessel pretty much as soon as he appears, you probably need a faster runner.  But don't hurt their feelings.  Sneak over to their house and cut their internet connection.  Then find a replacement when they don't show up.
-##### Dying on the edge of the bubble running back from detonation:
-That's frustrating.  You're almost there, and bam!  Yell out to your runner when you're running back if you think you're running out of time.  They might be able to move the bubble towards you.
-##### Misjudging getting an Ogre down on time.
-Basically if you run into something where you know it will be really tight to get to your Ogre because you're running late, don't go.  Just stay in the bubble and let your teammates know.  You'll have to go another round though.
-##### Frustration over giving up after someone dies.
-You can do this with 5 people.  Remember the top Ogre hurters are helping out, but they aren't completely necessary.  The platform people will just have to do more work when they get up top.  Doing it with 4 is tricky, but doable.  I recommend if someone dies in round 1, go ahead and wipe.  Otherwise see how far you can go, practice makes perfect.
+* Dying when you're up top due to Oryx or Eyes or Ogres:
+ * Fix by exercising constructive cowardice.  When your blessing disappears, be back in the bubble immediately.
+* Dying because you didn't make the jump to the Daughter's platform:  
+    * Fix by practicing before kicking off Oryx.
+* Dying because the Ogre decides to pay attention to you cowering on the platform:
+  * Call out to the Guardian across from you to hit the Ogre in the back.  The Ogre will hesitate, and that should get you enough time for the runner to grab the pineapple.
+* Dying because the ship blasted you:
+  * As much as I hate to say it, your runner probably isn't fast enough.  If your runner isn't getting to the Vessel pretty much as soon as he appears, you probably need a faster runner.  But don't hurt their feelings.  Sneak over to their house and cut their internet connection.  Then find a replacement when they don't show up.
+* Dying on the edge of the bubble running back from detonation:
+  * That's frustrating.  You're almost there, and bam!  Yell out to your runner when you're running back if you think you're running out of time.  They might be able to move the bubble towards you.
+* Misjudging getting an Ogre down on time.
+  * Basically if you run into something where you know it will be really tight to get to your Ogre because you're running late, don't go.  Just stay in the bubble and let your teammates know.  You'll have to go another round though.
+* Frustration over giving up after someone dies.
+  * You can do this with 5 people.  Remember the top Ogre hurters are helping out, but they aren't completely necessary.  The platform people will just have to do more work when they get up top.  Doing it with 4 is tricky, but doable.  I recommend if someone dies in round 1, go ahead and wipe.  Otherwise see how far you can go, practice makes perfect.
 
 After doing a couple of raids doing the no knight strategy, you'll be close to ready to change it up.  In preparation for the [challenge mode](./oryxchallenge.html), we'll talk about the a strategy where you [kill the knights](./oryxchallenge.html).

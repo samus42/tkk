@@ -67,7 +67,7 @@ Let's take a second here and realize that for low light people, this might be as
 
 **A:** There's a lot of chaos, and adds firing at you.  So it gives everyone a chance to go in the right direction or make any course corrections.  
 
-**Q: There are a lot of adds out there! And you expect me to leave the shield?***
+**Q: There are a lot of adds out there! And you expect me to leave the shield?**
 
 **A:** Take a couple of seconds before the countdown and wipe out any Eyes or Centurions that you see.  You have more time than you think.
 

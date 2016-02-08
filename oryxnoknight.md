@@ -87,9 +87,9 @@ You jump platforms like last time (don't fall).  After you steal the shield, get
 Btw, the team might want to **practice jumping to the Daughter platforms** before you start it off.  Make sure you agility is set high enough.
 
 #### The Gang's All Here!
-OK, while the team is assembled and waiting for the runner, there a couple of things should do:
+OK, while the team is assembled and waiting for the runner, there a couple of things you should do:
 1. Check on the Ogre closest to the platform you were on, feel free to drop their health a bit more (without killing them).
-2. Hide in the Blessing bubble after the shield is stolen because Oryx is going to shoot at you once.
+2. Hide in the Blessing bubble after the shield is stolen because Oryx is going to shoot at you once or twice.
 3. Take pot shots at the Vessel after his shield has been stolen.
 
 Once the runner has joined you with the shield, try to take down the Vessel before Oryx slams.  If you don't, not a huge deal, but he moves around so you'll have to find him again.  
@@ -100,7 +100,7 @@ Once staggered, everyone look at the Ogre closest to the plate they would normal
 
 Let's be clear here.  **Ogre dies at 1, not 2, not 3, not 4, and 5 is right out**.  Do not start shooting your Ogre at 1.  
 
-Go straight to the blight and detonate.  The knights will be heading towards you, but don't worry about them.  As soon as you see your name in the lower left, take off for the middle.
+Go straight to the blight and detonate.  The knights will be heading towards you, but don't worry about them.  As soon as you see your name in the lower left, go *"meep meep!""* and take off for the middle.
 
 Runner, after they take off, drop to the center and keep hitting Oryx in the chest.  
 
@@ -131,4 +131,4 @@ The rest of the raid is exactly the same.  Air Raid/Shade, then Platforms/Ogres 
 * Frustration over giving up after someone dies.
   * You can do this with 5 people.  Remember the top Ogre hurters are helping out, but they aren't completely necessary.  The platform people will just have to do more work when they get up top.  Doing it with 4 is tricky, but doable.  I recommend if someone dies in round 1, go ahead and wipe.  Otherwise see how far you can go, practice makes perfect.
 
-After doing a couple of raids doing the no knight strategy, you'll be close to ready to change it up.  In preparation for the [challenge mode](./oryxchallenge.html), we'll talk about the a strategy where you [kill the knights](./oryxchallenge.html).
+After doing a couple of raids doing the no knight strategy, you'll be close to ready to change it up.  In preparation for the [challenge mode](./oryxchallenge.html), we'll talk about the a strategy where you [kill the knights](./oryxkillknights.html).

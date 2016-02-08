@@ -3,7 +3,7 @@
 
 This actually isn't much of a maze as there aren't many wrong turns you can take.  The darkness can be a problem, as well as the pits scattered throughout.  The pits don't mess you up so much from the deaths, as leaving yourself completely disoriented when you resurrect.
 
-What you need to realize is that in this place there are no actual 'turns', every intersection is a 4 way.  Where there would normally be a corner is an intersection with 2 dead ends a couple of yards in.  So if you miss you'll hit a wall in a couple of seconds. Your ghost can be helpful here, when you activating the radar pulse can help you see the pits, as well as giving you a bit more light.  
+What you need to realize is that in this place there are no actual 'turns', every intersection is a 4 way.  Where there would normally be a corner is an intersection with 2 dead ends a couple of yards in.  So if you miss you'll hit a wall in a couple of seconds. Your ghost can be helpful here, when you activated the radar pulse can help you see the pits, as well as giving you a bit more light.  
 
 As a general rule though, if there is an intersection, there's probably a pit.  So you're safest jumping through an intersection rather than just running.
 
@@ -17,7 +17,7 @@ The way through the maze is pretty simple:
 
 See? No problem!
 
-**Q: Wait a second! Isn't there a chest here?"**
+**Q: Wait a second! Isn't there a chest here?**
 
 **A:** Well...yes, but are you sure you want it?
 
@@ -64,6 +64,7 @@ The person on plate C when looking towards the entrance will see everyone name t
 Once that's all done, meet up at the door and claim your reward that took people days to figure out.
 
 **Q: WTF?!?!?!??!?!!??!!?!?**
+
 **A:** What, you didn't want more shards?  I did warn you...
 
 Ok, straight down the corridor and we're ready to take on [Golgoroth](./golgoroth.html)

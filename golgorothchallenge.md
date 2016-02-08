@@ -1,7 +1,7 @@
 # Battleborn Taken King Guide
 ## Golgoroth (Challenge Mode)
 
-You've had a good life.  Each time you get to Golgoroth you've always got some schmuck taking gaze for you while you just hop in the pit and blast away.  I bet you never think about the mental trauma the gaze puller goes through.  Well guess what?  Now its your turn to suffer as well!  The challenge is **everyone must take the gaze every damage round**.
+You've had a good life.  Each time you get to Golgoroth you've always got some schmuck taking gaze for you while you just hop into the pit and blast away.  I bet you never think about the mental trauma the gaze puller goes through.  Well guess what?  Now its your turn to suffer as well!  The challenge is **everyone must take the gaze every damage round**.
 
 **Q: You mean if everyone gets the gaze once, we're good?**
 
@@ -27,7 +27,7 @@ Here's how its going to work:
 6. When the count reaches 2 seconds, #3 needs to take the gaze.
 7. Everyone jumps out of the pit when the gaze is taken by #3.  #1 & #5 needs to run to the right bridge.  #4 & #6 to the left corner.
 8. As soon as the back opens, #4 takes the gaze.
-9. As soon as the back opens, #5 takes the gaze.  **#1 & #3 need to defend #5 as adds will be swarming at that time**
+9. As soon as the back opens, #5 takes the gaze.  **#1 & #3 need to defend #5 as adds will be swarming at that time**.
 10. As soon as the back opens, #6 takes the gaze and holds it for the full count.  Odds go back to their corner and work on baddies in the pit.
 
 **Bonus Hint:** When you get the Corrupted Light, instead of jumping out of pit, stand next to Golgoroth.  When you blow up you'll hurt him instead.  Since he'll always have his gaze captured, he won't stomp on you.

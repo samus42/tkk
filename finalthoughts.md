@@ -24,6 +24,7 @@ This raid is all about communication.  Teams that don't communicate fail often, 
 
 ### Weapons
 Learn to use your sniper rifle.  This raid really pushes you towards it as all the bosses seems to have a weakness against it.  
+
 Auto rifles will be frustrating to use unless you've got a high stability.  Also you'll be engaging a lot of enemies at range, so the range drop off of auto rifles will really hit you.
 
 The raid Heavy Machine Gun is pretty much the most useful raid weapon.  Turn it on a wizard and watch it melt.  It's pretty stable and has decent impact so can be used at all phases.
@@ -41,4 +42,4 @@ Have some fun with the raid!  Give yourself different goals you want to hit!  So
 
 **Q: This guide sucks**
 
-**A:** That wasn't a question.  Shut up and go write your own guide. 
+**A:** That wasn't a question.  Shut up and go write your own guide.

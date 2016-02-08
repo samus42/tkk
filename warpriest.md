@@ -43,11 +43,11 @@ When all the Yellow Bar Knights are down, you'll see a message that the glyph se
 
 The Warpriest is a dick, the sign is on the **back** of the obelisks.
 
-Have one person (usually one of the center people unless their are both mute, or their mics don't work) run to the wall and look at the backs of the obelisks.  One of them will have their symbol glowing.  Call out which side it's on.  Remember, you're facing backwards now so left is right, right is left, and center is...center.  One person from the group on that side needs to step on the plate.  The next obelisk will light up, so do it again.  At that point the 3rd obelisk should light up but I hope that you are smart enough to use the process of elimination to figure out which plate hasn't been stepped on.
+Have one person (usually one of the center people unless they are both mute, or their mics don't work) run to the wall and look at the backs of the obelisks.  One of them will have their symbol glowing.  Call out which side it's on.  Remember, you're facing backwards now so left is right, right is left, and center is...center.  One person from the group on that side needs to step on the plate.  The next obelisk will light up, so do it again.  At that point the 3rd obelisk should light up but I hope that you are smart enough to use the process of elimination to figure out which plate hasn't been stepped on.
 
 Once the 3rd person has stepped on the plate, something magical will happen and a red aura will appear around them.  Anyone inside this aura can now hurt the Warpriest.  And I strongly suggest that you do (helped by a Weapons Bubble and Shadowshot), because time is limited.  Except the person holding the aura, they have another job.  Staying alive.
 
-The person with the bubble will notice a message **Aura of the Initiate x 5** along with a countdown timer.  They have until that timer reaches 0 to kill an Acolyte.  Once they do, the timer resets and the multiplier goes down by 1.  If they don't, they die.  The thing is, you shouldn't just go killing Acolytes as fast as possible, because once the multiplier is gone, so is the red bubble and your ability to hurt the Warpriest.  So it's a balancing act, let the timer run down as far as possible before killing an Acolyte.  For new people, I recommend shooting at 2 or 3.  Don't take chances, use a heavy machine gun and mow that prick down.  
+The person with the bubble will notice a message **Aura of the Initiate x 5** along with a countdown timer.  They have until that timer reaches 0 to kill an Acolyte.  Once they do, the timer resets and the multiplier goes down by 1.  If they don't, they die.  The thing is, they shouldn't just go killing Acolytes as fast as possible, because once the multiplier is gone, so is the red bubble and your ability to hurt the Warpriest.  So it's a balancing act, let the timer run down as far as possible before killing an Acolyte.  For new people, I recommend shooting at 2 or 3.  Don't take chances, use a Heavy Machine Gun and mow that prick down.  
 
 Once the Aura has disappeared, the Warpriest will call upon the power of the obelisks and the big glowy ball will make the room really bright.  As much as the room could use some mood lighting, this light will kill you.  Good news is you're safe as long as you keep an obelisk between you and the blight.  Bad news is after its done, the Warpriest will take away any obelisk you've been hiding behind.
 
@@ -61,7 +61,7 @@ So with your amazing powers of counting, you have realized you have 3 obelisks, 
 
 **Q: I had the Aura, but the Acolytes hid and I died.**
 
-**A:** That does happen sometimes, you get the batch of Acolytes that will take cover from time to time.  If you don't have one in your sights around 3 seconds, leave your group and sprint to find one.  Your team won't be able to do damage, but you'll be alive.  And that's what's important.  Screw those guys.
+**A:** That does happen sometimes, you get the batch of smarter Acolytes that will actually take cover.  If you don't have one in your sights around 3 seconds, leave your group and sprint to find one.  Your team won't be able to do damage, but you'll be alive.  And that's what's important.  Screw those guys.
 
 **Q: I'm helping my Aura holder by killing every Acolyte in sight, but they keep dying.  Are they that bad at this?**
 
@@ -73,7 +73,7 @@ So with your amazing powers of counting, you have realized you have 3 obelisks, 
 
 **Q: I have the Aura, but the Warpriest/Acolytes keep killing me as I'm keeping the Aura steady.  How can I live?**
 
-**A:** On the right hand side, you want to crouch down behind that chest high wall to your right.  The Aura should still give good coverage, and you can pop out every couple of seconds to mow down and Acoylte.  In the center, crouch down behind the chest high wall in front of you.
+**A:** On the right hand side, you want to crouch down behind that chest high wall to your right.  The Aura should still give good coverage, and you can pop out every couple of seconds to mow down and Acolyte.  In the center, crouch down behind the chest high wall in front of you.
 
 **Q: What about the left hand side?**
 
@@ -81,7 +81,7 @@ So with your amazing powers of counting, you have realized you have 3 obelisks, 
 
 **Q: After the round ends, I'm trying to get back up to the left platform, but I'm getting slammed by shots from the Warpriest as I try to navigate the jumps.**
 
-**A:** Take the right hand side staircase and jump from the balcony over to the left platform, you're under cover the whole time.
+**A:** Take the right hand side staircase and jump from the balcony over to the left platform, you're under cover the whole time.  Plus stairs are great cardio!
 
 OK, time for Round 2!  The waves of adds in the center follows the same sequence, but on the sides it's slightly different.
 1. Knight
@@ -94,7 +94,7 @@ Pretty straightforward, rinse and repeat to damage Warpriest.  If your light is 
 
 **Q: WAIT!!! I'm in the center and just got hit in the back by a Knight!  I thought you said only Thralls come out the side doors?!**
 
-**A:** Only Thralls come out through the side doors, the Knights *sometimes* drop down from the left and right.  Especially when they don't get back on their sides fast enough.  People on the sides should be on the lookout for that and call out to the center when that happens.  Unless you think it's really funny.  Then just laugh at them.
+**A:** Only Thralls come out through the side doors, the Knights *sometimes* drop down from the left and right.  Especially when your teammates don't get back on their sides fast enough.  You people on the sides should be on the lookout for that and call out to the center when that happens.  Unless you think it's really funny.  Then just laugh at them.
 
 At Round 3, things change quite a bit.  The order is.
 1. Lots of Taken

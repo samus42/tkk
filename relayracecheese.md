@@ -8,9 +8,9 @@ To this date I don't know if this is a glitch or not.  The conditions that cause
 2. Handle stress really really well
 3. Have Red Deaths (especially on the right hand side)
 
-So here's how the cheese work, have your volunteers walking into their respective poison room and start blocking with their swords.  You'll see them flicker as they slowly drain ammo.  Around 8 times or so, suddenly the flickering will increase.  At this point in time have them leave the poison room **while continuing to block**.  Once they've left, then can stop blocking.  Now have them re-enter the poison room.  Notice their health is **not** going down? They are now immune until they leave the poison room again.
+So here's how the cheese work, have your volunteers walking into their respective poison room and start blocking with their swords.  You'll see them flicker as they slowly drain ammo.  Around 8 times or so, suddenly the flickering will increase.  At this point in time have them leave the poison room **while continuing to block**.  Once they've left, they can stop blocking.  Now have them re-enter the poison room.  Notice their health is **not** going down! They are now immune until they leave the poison room again.
 
-This means that **they can stay on the side plate the whole time!**.
+This means that **they can stay on the side plate the whole time!**
 
 Your setup is now different, one person on each side standing on the plate. The other 4 in the center, broken into teams of two that pass the orb between themselves and stand on the center plate.
 
@@ -28,13 +28,13 @@ This can be helped by the people in the middle giving you a warning when there a
 #### The people in the middle will forget to tell you.  Or they'll miss a brand transfer which makes the counter worthless.
 At this point you'll need to have a good internal clock or keep glancing up at the balcony.
 #### It NEVER lets up.  
-The Acolytes just keep coming.  The balcony Knight keeps coming out, and you do **not** have a break.  You do not get to run anywhere, or stand around on the center plate waiting.  You will be moving and shooting **constantly**.
+The Acolytes just keep coming, the balcony Knight keeps coming out, and you do **not** have a break.  You do not get to run anywhere, or stand around on the center plate waiting.  You will be moving and shooting **constantly**.
 #### Adds will get through
-And it's going to piss you off.  If a Knight gets through, you might throw your controller at the wall (which you shouldn't they are expensive).
+And it's going to piss you off.  If a Knight gets through, you might throw your controller at the wall (which you shouldn't because they are expensive).
 #### The balcony Knight will turn is back to you
 For some reason he wants to face the people in the middle.  Up to the point you need to take your eye off him for a second to take care of an Acolyte.  Then he'll spin and nail you.
 #### Right hand side has *no* cover
-Only people who can handle stress **really** well should take the right and side.
+Only people who can handle stress **really** well should take the right hand side.
 #### No running means almost no ammo recovery
 Popping a synth will be one of the most stressful things you do.  Running out of special ammo will really hurt here.
 #### It's all on you
@@ -58,8 +58,8 @@ Not only does it mean your side plate person will be there longer, but now you'v
 #### Count down the brand timer from 5 seconds
 Not only does this remind your partner it's time to take the orb, it gives the person on the side plate a chance to get ready for the balcony Knight.
 
-#### Mute the side place people
-Seriously, you can't do anything else to help them, and they're just going to spend the whole time whining and whimpering.  You need to concentrate
+#### Mute the side plate people
+Seriously, you can't do anything else to help them, and they're just going to spend the whole time whining and whimpering.  You need to concentrate.
 
 #### Buy your side plate person a beer
 They deserve it.

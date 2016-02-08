@@ -21,16 +21,16 @@ You should notice there's a big plate in the center which doesn't seem to do any
 
 Now it's a bit complicated, but here's the general rules.
 
-1. Picking up the orb wakes up the acolytes who will begin shooting you. Shooting the acolytes starts things off also.
-2. The orb also provides a shield from the poison.
-3. The pillars start activating as soon as things get started, if someone doesn't get on the plate on each end quickly, everyone dies.
+1. Picking up the orb wakes up the acolytes who will begin shooting you. Shooting the acolytes also starts things off.
+2. The orb provides a shield from the poison.
+3. The pillars start activating as soon as things get started, if someone doesn't get on the plate on each end quickly, everyone dies. *(that's bad, ok?)*
 4. After 25 seconds, the shield transfers from the person holding it to someone else within the shield (the shield holder can see a countdown timer).  The person who held the shield now has **Deathsinger's Power x10**.
-5. The person with Deathsinger's Power now must run to the center plate (see, it's useful!) and stay there while the power drains.  When the Deathsinger's Power goes away completely, a rune will light up on the pillar in front of you.  When then runes all the way to the top are lit up, you'll be done.
+5. The person with Deathsinger's Power now must run to the center plate (see, it's useful!) and stay there while the power drains.  When the Deathsinger's Power goes away completely, a rune will light up on the pillar in front of you.  When the all the runes are lit up, you'll be done.
 6. The person who had the power drained must now run back to the plate on the side they were on so they can get the shield and start this whole thing over.  
 
 **THIS IS WHY THE CORRECT NAME FOR THIS IS THE RELAY RACE**
 
-I know, I know, it sounds complicated.  But that's because I haven't told you how it's so much worse yet!
+I know, I know, it sounds complicated.  But I haven't even told you how it's so much worse yet!
 
 ### Why it's so much worse
 * At the end of the 25 seconds, a Knight will appear in the balcony above you and start chucking down energy balls on your head, because they're dicks.  
@@ -46,7 +46,7 @@ I in my generous nature, will guide you to victory.  Now remember how many peopl
 
 You'll want to line up with one person beside each orb.   Assign who is going second behind them, and finally who's staying in the middle.  Have someone countdown from 3, and on go, say something inspiring like "CHARGE!", or "KILL EM ALL!", or "BURRITOS!".  It helps.
 
-At that point orbs are picked up and the bearers sprint to their plates.  Start picking up Acolytes as soon as they appear.  That way you feel useful.  Everyone else stays in the center and wipes out the Acolytes then Adepts.
+At that point orbs are picked up and the bearers sprint to their plates.  Start picking off Acolytes as soon as they appear.  That way you feel useful.  Everyone else stays in the center and wipes out the Acolytes then Adepts.
 
 *Side Note: If you kill the Adepts before the Acolytes, the Acolytes turn into mini-ogres with powerful eye beams and can really ruin your day.  Again, if Oryx was anywhere intelligent he would appear with an army of Adepts and Acolytes, then kill the Adepts himself and watch everyone get wiped out.*
 
@@ -60,13 +60,13 @@ No, closer.
 
 That's better.  After the time expires you can cough, look embarrassed and separate yourself.  The person who now has the Deathsinger's Power should look up at the balcony and use a sniper rifle on the Knight.  One headshot should do it.
 
-When running back to the center pull out a Solar Machine gun, when you arrive, immediately find your Wizard and blast her to bits.  Do not pass go, do not collect $200.  She has to die.  Quickly.
+When running back to the center pull out a Solar Machine Gun. When you arrive, immediately find your Wizard and blast her to bits.  Do not pass go, do not collect $200.  She has to die.  Quickly.
 
 After you kill the wizard pick off any adds that come through the portal.  
 
 **Do not hang around after your power has been drained!**  The timer keeps marching on, and they need you back at that plate.  Start running.
 
-Finally while waiting for your turn to get the shield again, keep the center clear, otherwise the person sniping the Knight will get bumped around and start whining and that's really freaking irritating.
+Finally while waiting for your turn to get the shield again, keep the the path back to the center clear, otherwise the person sniping the Knight will get bumped around and start whining which is really freaking irritating.
 
 **Q: What if I miss the knight?**
 
@@ -90,12 +90,12 @@ Finally while waiting for your turn to get the shield again, keep the center cle
 
 ### What can go wrong
 #### Brand does not transfer
-Of course it's a because of a glitch, not because you were busy tracking down a wandering add and stepped to the edge of the bubble.  Seriously though, it appears you can be in the bubble, but still not get the brand if you're a certain distance away.  Hence why you should stand very closely.  But if it doesn't transfer, you can recover!  Make sure your person who is in the center knows what's going on so they stay at the entryway since it's going to take 10 seconds to appear or so.  During this time, make sure that balcony knight is dead then hide as best you can from the adds to keep your health as high as possible.  If you're carrying a sword, start blocking.  As your head drops past half-red, take off, at this time the orb should have appeared and your partner is sprinting towards you.  You can afford to be off the plate for a couple of seconds.  If you've been talking, everyone knows what's going on and will not freak out if their screen starts going red.
+Of course it's a because of a glitch, not because you were busy tracking down a wandering add and stepped to the edge of the bubble.  Seriously though, it appears you can be in the bubble, but still not get the brand if you're a certain distance away.  Hence why you should stand very close together.  But if it doesn't transfer, you can recover!  Make sure your person who is in the center knows what's going on so they stay at the entryway since it's going to take 10 seconds to appear or so.  During this time, make sure that balcony knight is dead then hide as best you can from the adds to keep your health as high as possible.  If you're carrying a sword, start blocking.  As your health drops past half-red, take off, at this time the orb should have appeared and your partner is sprinting towards you.  You can afford to be off the plate for a couple of seconds.  If you've been talking, everyone knows what's going on and will not freak out if their screen starts going red.
 
-If the orb appeared and your partner is **not** sprinting towards you.  Make sure to melee him in the face before you wipe.
+If the orb appeared and your partner is **not** sprinting towards you.  Make sure to punch him in the face before you wipe.
 
 #### Someone died
-This happens, and this is probably the most unforgiving place for it to occur.  You can still swear at them though.  First off is you want to see how much further you have to go.  If you only have a couple of rounds left, suck it up and start talking with your partner about dealing with the delayed transfer.  Once the person leaves the plate for the middle they will **not** be able to get back in time.  So get ready.  Don't linger in the center, as soon as your Deathsinger's Power is done, see if you can prove me wrong by sprinting back.  Otherwise set up shop where the orb appears and start killing any adds you can see.  You can probably do 3 rounds of this before you succumb if you're really good.
+This happens, and this is probably the most unforgiving place for it to occur.  You can still swear at them though.  First off is you want to see how much further you have to go.  If you only have a couple of rounds left, suck it up and start talking with your partner about dealing with the delayed transfer.  Once the person leaves the plate for the middle they will **not** be able to get back in time.  So get ready.  Don't linger in the center, as soon as your Deathsinger's Power is done, see if you can prove me wrong by sprinting back.  Otherwise set up shop where the orb appears and start killing any adds you can see.  You can probably do 3 rounds of this before you succumb to the poison if you're really good.
 
 If you pull it off, you are allowed to brag about it for the rest of the week.
 

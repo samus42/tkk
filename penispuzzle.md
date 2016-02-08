@@ -13,13 +13,15 @@ So if you were paying attention, you saw that what came out from the wall and th
 
 It's a giant penis.  Welcome to the *Penis Puzzle*.
 
-**Hint: If you're a Hunter with Bone of Ao, put them on now.**
+**Hint: If you're a Hunter with Bones of Ao, put them on now.**
+
+**Hint: If you're a Hunter with Boner of Ao, you're in the wrong place, the porn taping is down the hall on the right.**
 
 Now if you look directly underneath you, there's a ledge.  The last Calcified Fragment is on the right hand side.  Go ahead and drop down. Ok, now that you slid off, try again.  This will happen a lot, but you won't really understand what's happening until you successfully land.  So go ahead, I'll wait.
 
 *zzzzzzzzzZZZZZzzzzzzzz*
 
-Sorry, caught a quick nap there.  Ok, now that you've landed successfully.  Let's take a quick look at our surroundings.  Hopefully by now you've noticed the wall slants.  What you should look closely at is where the wall meets the ledge.  It's not a corner, it's a curve.  This means if you slide along the wall at all, most likely your downward velocity will turn into horizontal velocity and launch you right off the ledge.  
+Sorry, caught a quick nap there.  Ok, now that you've landed successfully.  Let's take a quick look at our surroundings.  Hopefully by now you've noticed that the wall slants.  What you should look closely at is where the wall meets the ledge.  It's not a corner, it's a curve.  This means if you slide along the wall at all, most likely your downward velocity will turn into horizontal velocity and launch you right off the ledge.  
 
 I'll give it to Oryx, this was pretty clever.  If you've played other games with jumping at all, you've been trained to aim where the ledge meets the wall.  That will get you killed here.  Instead set your aim point to the edge of the ledge.
 
@@ -49,7 +51,7 @@ If you turn towards the chasm, there's a slanted pillar in front of you.  If you
 
 **A:** That was the guy we tricked into touching the light at the beginning of this guide....
 
-Turn around and pull out your ghost, you should see an invisible platform in front of you.  Jump to it and work your way to the end.  Considerate Guardians usually stand on this to keep it lit up until the rest of the team arrives, but we proved that we aren't that guy at the beginning of this section.  So pull out your ghost and light up the next invisible ledge to jump too.
+Turn around and pull out your ghost, you should see an invisible platform in front of you.  Jump to it and work your way to the end.  Considerate Guardians usually stand on this to keep it lit up until the rest of the team arrives, but we proved that we aren't that guy at the beginning of this section.  So pull out your ghost and light up the next invisible ledge to jump to.
 
 Now turn back to that slanted pillar.  There is another ledge to jump to above you.  It's very very small, so only one Guardian at a time.  Once up there turn back to the far wall (the one without penises) and the ledge you want is above you.  There is an archway over the platform that you can hit your head on when you jump, so aim for the right hand side.
 
@@ -58,7 +60,7 @@ Again, you need your ghost to see your next platform.  Once you're on it though,
 I might want to reword that.
 
 #### The Shortcut
-If you are a Hunter with Bones of Ao, or a Warlock.  You're pretty much set if you put your agility all the way up.  Go back onto that last platform before jumping into the hole and look towards the penis wall.  From the plate below you, look up and too the right.  There are two spars coming out from the wall across from you, that's where you're going.  Sprint and jump for it.  Hunters without Bones have no chance here, so if you don't have them, skip down below to doing this for real.  Floating is pretty easy for Warlocks.
+If you are a Hunter with Bones of Ao, or a Warlock, you're pretty much set if you put your agility all the way up.  Go back onto that last platform before jumping into the hole and look towards the penis wall.  From the plate below you, look up and too the right.  There are two spars coming out from the wall across from you, that's where you're going.  Sprint and jump for it (saying a quick prayer before hand).  Hunters without Bones have no chance here, so if you don't have them, skip down below to doing this for real.  Floating is pretty easy for Warlocks, they usually hum a little song while doing so.
 
 Titans though....this is a tough jump.  Not only do you have to get full agility, but you need at least 2 weapons equipped to get you extra agility.  Raid weapons all have that perk.  Then comes the timing of the jump.  When you do your first jump, wait about half a second before hitting your double jump.  Your aim has to be almost perfect, you probably won't get it the first try.
 

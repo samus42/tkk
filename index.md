@@ -1,7 +1,7 @@
 # Battleborn Taken King Guide
 *By SamusDarkthorn*
 
-So you think you're ready to take on Oryx.  You weren't fooled by the end of the story missions.  You *know* he's still alive.  Come on, his sword he leaves behind falls to dust?  Obviously that was a prop. Honestly, we deserve better from our bad guys.  And why did he run away anyway?  He can kill us all with one clap of the hands!  Oh wait, you don't know that yet, ignore that part, let's move on...
+So you think you're ready to take on Oryx.  You weren't fooled by the end of the story missions.  You *know* he's still alive.  Come on, the sword he leaves behind falls to dust?  Obviously that was a prop. Honestly, we deserve better from our bad guys.  And why did he run away anyway?  He can kill us all with one clap of the hands!  Oh wait, you don't know that yet, ignore that part, let's move on...
 
 So you think you're ready to take on Oryx!!  Well there are 3 ways to do this
 1. The right way
@@ -25,8 +25,12 @@ So let's start with what you need to bring on your raid:
 
 **A:** Someone who's run and taught this raid to a lot of Battleborn members.  To be fair, there are lots of variations on this (some I call out), and over time this guide will change when a brilliant new strategy emerges.  
 
+**Q: My way is better! Why didn't you use my <insert strategy name here>?**
+
+**A:** Because I wrote this, and you didn't.  Nah nah nah.  
+
 **Q: Do I need a Gjallarhorn?**
 
 **A:** Go away.
 
-OK, we've ready to rock!  Let's start with the [Portal room](./portalroom.html)!
+OK, we're ready to rock!  Let's start with the [Portal room](./portalroom.html)!

@@ -3,12 +3,13 @@
 
 As with the Warpriest, there is a [challenge mode](./gogorothchallenge.html) for this boss.  But I recommend you read this first.
 
-Feel free to run around the area as you won't trigger anything.  Pay particular attention to the corners near the entrance as that's where you're going to spend a lot of your time.  While you're wandering around your instincts are probably going to be warning you about being inside the pit in the center of the room.  
+Feel free to run around the area as you won't trigger anything.  Pay particular attention to the corners near the entrance as that's where you're going to spend a lot of your time.  Think about personalizing the space a bit.  While you're wandering around your instincts are probably going to be warning you about being inside the pit in the center of the room.  
+
 You have some damn good instincts.  
 
 Eventually, as befits a true Guardian, who defends the light, you're going to see the glowing light in the center of the ceiling.  And like any great protector of all that is good and light, you'll shoot it.
 
-At that point, Golgoroth will emerge from the floor because you just broke his heirloom light bulb that had been handed down from generation to generation of of ogres. Frankly this response shouldn't suprise you since you just spent the last section in near darkness.  Light bulbs are a huge deal here.
+At that point, Golgoroth will emerge from the floor because you just broke his heirloom light bulb that had been handed down from generation to generation of of Ogres. Frankly this response shouldn't surprise you since you just spent the last section in near darkness.  Light bulbs are a huge deal here.
 
 Bet you feel like a prick now.
 
@@ -16,7 +17,7 @@ That feeling will last about 15 seconds which is about the amount of time it tak
 
 Eventually you'll return fire, and while you'll be quite busy holding off Thralls of the normal and cursed kind....
 
-Actually, let's digress for a minute?  **Who the hell is cursing all these Thralls?**  I mean a couple of cursed one I could expect, any Thrall society will have it's outcasts.  But now it looks like they have their own community!  With that many cursings going on, I'm surprised Cayde hasn't run a diplomatic mission to Thralldom. The message would be simple, "Join the Vanguard and we won't curse you".  Considering the number of Cursed Thralls here, surely a great deal of Thralls would know one personally.  They'd have to think, "Hmm, I wouldn't be able to rip people to shreds anymore, but I wouldn't have to worry about becoming a bomb.  And my wife wouldn't have to worry about me keeping her up all night with that constant glowing and shrieking".  To me that's a damn good deal.  
+Actually, let's digress for a minute.  **Who the hell is cursing all these Thralls?**  I mean a couple of cursed ones I could expect, any Thrall society will have it's outcasts.  But now it looks like they have their own community!  With that many cursings going on, I'm surprised Cayde hasn't run a diplomatic mission to Thralldom. The message would be simple, "Join the Vanguard and we won't curse you".  Considering the number of Cursed Thralls here, surely a great deal of Thralls would know one personally.  They'd have to think, "Hmm, I wouldn't be able to rip people to shreds anymore, but I wouldn't have to worry about becoming a bomb.  And my wife wouldn't have to worry about me keeping her up all night with that constant glowing and shrieking".  To me that's a damn good deal.  
 
 But seriously, who is cursing them?  Screw Oryx, let's find **that guy**.
 
@@ -24,7 +25,7 @@ Where was I.....oh yes, cowering from eye beams, Thrall swarming over you, perio
 
 The thrill of that realization will last about 5 seconds as after a hit or two Golgoroth focuses on your dear friend, and unleashes a torrent of orbs that swarm around his cover and blast him to bits.  At which point you decide not to be that guy.
 
-Your team will be wiped out in the next minute or so, so grab all the ammo you can.
+Your team will be wiped out in the next minute or two, so grab all the ammo you can.
 
 Take a breath, remember you have this wonderfully entertaining guide in front of you, and let's work this out.
 
@@ -45,11 +46,11 @@ Now we've cleared the bad guys, that just leaves Golgy, so collect any ammo lyin
 
 Ok, those orbs that appeared on the ceiling?  People like to number them starting from the front, so you have Left 1,2,3 and Right 1,2,3.  Which is wonderful and great because you're only ever going to care about the first one on the left (L1).  
 
-Now remember I said keep the weakest on the left, and the 2nd most weakest on the right?  Well you guys are about to become super important.  To make things easier I'm going to call the 2nd weakest #1, and the weakest #2.  Everyone should now be back on the side where you started, and #2 should go up the right hand side and go out on the right hand bridge.  If Golgorth starts shooting at him, shoot Golgorth in the legs to get his attention.
+Now remember I said keep the weakest on the left, and the 2nd most weakest on the right?  Well you guys are about to become super important.  To make things easier I'm going to call the 2nd weakest #1, and the weakest #2.  Everyone should now be back on the side where you started, and #2 should go up the right hand side and go out on the right hand bridge.  If Golgorth starts shooting at #2, everyone else shoot Golgoroth in the legs to get his attention.
 
 **Do not shoot him in the back.**
 
-Ok #2, take out a sniper rifle and...*shoot him in the back fleshy part**.
+Ok #2, take out a sniper rifle and...**shoot him in the back fleshy part**.
 
 **Q: Wait! I saw what happened to the last guy who shot him there!  Those orb thingies got him!  Are you crazy?**
 
@@ -57,7 +58,7 @@ Ok #2, take out a sniper rifle and...*shoot him in the back fleshy part**.
 
 **Q: Trust you?  You told us to jump into that big black ball at the Warpriest that killed us!**
 
-**A:** Hmm, that did come back and bite me didn't it.  But don't worry, there's something you can do to save yourself, **shoot the Axiom Bolts**.  A pulse rifle is great for this, or a machine gun.  You only need to survive for a couple of seconds.
+**A:** Hmm, that did come back and bite me, didn't it?  But don't worry, there's something you can do to save yourself, **shoot the Axiom Bolts**.  A pulse rifle is great for this, or a machine gun.  You only need to survive for a couple of seconds.
 
 After #2 shoots Golgoroth in the back, they will have his full attention.  So everyone else drop out of cover and start shooting the L1 orb. Have a Titan drop a Weapons Bubble on middle of the ledge.  When the orb breaks, a pool of goo will form in the pit under it.  Everyone **except** #1 needs to drop into that pit and get into the pool.
 
@@ -67,15 +68,15 @@ That pool is a *pool of reclaimed light*, it massively increases your damage to 
 
 **Q: Ok, I'm #1 and I've captured his gaze, someone else is taking it from me in a couple of seconds right? RIGHT?!**
 
-**A:** No, you're going to have to hold the gaze for the whole 18 seconds. But **don't panic**.  Try to get as close to Golgoroth as possible while staying up on the ledge?
+**A:** No, you're going to have to hold the gaze for the whole 18 seconds. But **don't panic**.  Try to get as close to Golgoroth as possible while staying up on the ledge.
 
 **Q: Closer?! Are you insane?**
 
-**A:** Again, I don't see how that's relevant.  Anyway, if you stay far back, the orbs come faster and you have no room to move.  You want to stay close so the orbs come out slowly, then slowly back up as you shoot the orbs, then sprint close again.  Whatever you do, **don't move side to side**.  If those orbs hit anything, they just bouncing around while still coming towards you making them very difficult to hit.
+**A:** Again, I don't see how that's relevant.  Anyway, if you stay far back, the orbs come faster and you have no room to move.  You want to stay close so the orbs come out at normal speed, then slowly back up as you shoot the orbs, then sprint close again.  Whatever you do, **don't move side to side**.  If those orbs hit anything, they just bouncing around while still coming towards you making them very difficult to hit.
 
 **Q: I'm still getting hit by an orb every wave, and my health is quickly going down, is there anything else I can do?**
 
-**A:** If you have a Red Death, that will help a lot.  Blasting an orb counts as a "kill" which has a chance to heal you.  If you're a Hunter, then shadow stepping works for some people too.  If you're a Hunter, Shade Stepping will cause the orbs to lose track of you.
+**A:** If you have a Red Death, that will help a lot.  Blasting an orb counts as a "kill" which has a chance to heal you.  If you're a Hunter, Shade Stepping will cause the orbs to lose track of you.
 
 **Q: You said use a sniper to hit Golgoroth in the pit, I have a great Heavy Machine Gun, I can use that instead right?**
 
@@ -101,4 +102,4 @@ Continue to repeat until you've taken him down about 3/4 of the way.  At that po
 
 The catch is Taken will be spawning right behind the pool of light, so Hunters drop a Shadow Shot at your feet, and #1 you are now focused on Taken. A Supercell or Heavy Machine Gun works.  A round or two of Taken and he should go down.
 
-Now that you've killed Golgoroth (and covered up your crime of breaking the heirloom light bulb), you're ready to [continue onwards](./penispuzzle.html) through cave at the end of the room.  However you might want to check out the [challenge mode](./gogorothchallenge.html) first.
+Now that you've killed Golgoroth (and covered up your crime of breaking the heirloom light bulb), clean that goo of of yourself and [continue onwards](./penispuzzle.html) through cave at the end of the room.  However you might want to check out the [challenge mode](./golgorothchallenge.html) first.

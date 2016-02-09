@@ -134,7 +134,7 @@ Your first priority will be the Knights that spawn on the front 2 platforms.  Af
 
 **Q: Some people call the shade 'her'.  If that's true, how do I get her to go on a date with me?**
 
-**A:** This will be covered in a later publication, *The Battleborn Guide to Dating the Darkness*.  It will give you step by step instructions on bringing romance to a Taken's existence.
+**A:** I'm glad you asked!  I've recently completed [The Battleborn Guide to Dating the Darkness](./dating-darkness.html).  It will give you step by step instructions on bringing romance to a Taken's existence.
 
 #### Round 3
 Oryx will go back up front, rinse and repeat with the shade.

@@ -109,6 +109,6 @@ Try to be understanding, some people have bad days.  Hmm, ok, not **that guy**, 
 ### In the end
 Did you make it? Of course you didn't!  Try again, but know that at the end is a shiny chest with something **other** than shards in it! So keep plugging away.
 
-And if all else fails, there is an [alternative stategy](./relayracecheese.html) known as the *cheese approach*.  
+There **used** to be an alternative strategy, but Oryx fixed it.  If you were curious how it worked, go head and look at the [cheese approach](./relayracecheese.html).  
 
 Have you made it yet? Great! Now you have been found worthy, it's time to [kill the warpriest](./warpriest.html)

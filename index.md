@@ -14,7 +14,7 @@ For the most part, this guide will cover *Hard Mode* because it's just like norm
 
 So let's start with what you need to bring on your raid:
 * Lots of free time
-* A set of sacrificial chickens.  If you need some, see Moe.  Tell him "Samus sent you" so you get the chickens with he *good* entrails.  I mean, you don't want second rate entrails.  Why were you even considering that?
+* A set of sacrificial chickens.  If you need some, see Moe.  Tell him "Samus sent you" so you get the chickens with the *good* entrails.  I mean, you don't want second rate entrails.  Why were you even considering that?
 * A swear word thesaurus.
 * A child who will keep telling you that you're doing it wrong so you get a lot of dark side energy you can focus into the raid.  (Light side just isn't going to happen here)
 * This guide

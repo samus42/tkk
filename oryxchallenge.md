@@ -40,7 +40,7 @@ The shade you've killed 100s of times will suddenly be incredibly stressful, and
 
 That's pretty much it, in normal hard mode, the explosion clears them out, and so when the shade bubble forms, you just need to take out 2 measly knights, then run to right to kill adds, then left twice, repeat repeat repeat. But now, you had no explosions, and they just keep spawning, and that will slow you down real bad in the shade bubble.
 
-Communication is the key. Assign one person to each knight, once person to hit adds coming from the back, and everyone else clear the adds in front before they back into the bubble. Which they will do, really quickly, because they're dicks.  As soon as Oryx regains the favor of darkness, everyone sprint to take care of their baddies.
+Communication is the key. Assign one person to each knight, one person to hit adds coming from the back, and everyone else clear the adds in front before they back into the bubble. Which they will do, really quickly, because they're dicks.  As soon as Oryx regains the favor of darkness, everyone sprint to take care of their baddies.
 
 For some reason, a lot of people don't seem to understand this, and this makes the shade bubble painful. The 3 of you who are clearing the adds in the front are the most important part of the raid. So take this opportunity to shine!
 
@@ -49,6 +49,10 @@ But what if adds get in? Especially in the beginning? Don't panic. First person 
 **Shade Tip #1:** When the shade charges, have your Warlock run right at him to "bait" him into swinging early so you don't get someone hit when they warp in.   If you run right at the shade and jump in the air over it's head, it will hit the ground and you might escape without taking any damage.  You can do it as a Hunter as well....but you'll probably need practice.
 
 If you cause the shade to miss you completely, it's perfectly acceptable to mock it.
+
+**Q: I'm a warlock, when I bait the shade, should I be a Stormcaller? Or Void Walker?**
+
+**A:** I....I....wow.  Um.  Ok, let me answer it this way.  Which one of those classes has self-res, so if you screw up you don't ruin the run for your team?
 
 **Shade Tip #2:** Guardians warp into the center, so if the shade charges the Guardians can move to the edges to keep the shade from slicing the poor sod who gets warped in.  
 

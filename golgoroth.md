@@ -46,7 +46,7 @@ Now we've cleared the bad guys, that just leaves Golgy, so collect any ammo lyin
 
 Ok, those orbs that appeared on the ceiling?  People like to number them starting from the front, so you have Left 1,2,3 and Right 1,2,3.  Which is wonderful and great because you're only ever going to care about the first one on the left (L1).  
 
-Now remember I said keep the weakest on the left, and the 2nd most weakest on the right?  Well you guys are about to become super important.  To make things easier I'm going to call the 2nd weakest #1, and the weakest #2.  Everyone should now be back on the side where you started, and #2 should go up the right hand side and go out on the right hand bridge.  If Golgorth starts shooting at #2, everyone else shoot Golgoroth in the legs to get his attention.
+Now remember I said keep the weakest on the left, and the 2nd most weakest on the right?  Well you guys are about to become super important.  To make things easier I'm going to call the 2nd weakest #1, and the weakest #2.  Everyone should now be back on the side where you started, and #1 should go up the right hand side and go out on the right hand bridge.  If Golgorth starts shooting at #1, everyone else shoot Golgoroth in the legs to get his attention.
 
 **Do not shoot him in the back.**
 

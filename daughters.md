@@ -91,7 +91,7 @@ I want to also point out the #1 thing that goes wrong after the 1st round.  If t
 
 **Don't forget about the snipers.**
 
-Everything else in round 2 works the same way, except now you'll take the shield from the sister on the right (again, fire bad), and meet behind platform #4. A weapons bubble is good here because its time to *burn that sister to the ground*.  That's right, kill her.  Then clear adds and get ready for round 3.
+Everything else in round 2 works the same way, except now you'll take the shield from the sister on the right (again, fire bad), and meet behind platform #3. A weapons bubble is good here because its time to *burn that sister to the ground*.  That's right, kill her.  Then clear adds and get ready for round 3.
 
 **Q: We didn't kill her!**
 

@@ -7,13 +7,13 @@ First notice the Tomb Husks to the left and right....actually...*forget that*.  
 
 OK, first notice the orbs on the left and right.  They're not there for decoration which is just as well because they went way overboard on the greenish brown decor anyway.  You'll need 2 brave volunteers (*suckers*) to pick them up. Once that happens a glass wall will come between you and those statues.
 
-*At this point someone should say "Schiess dem fenster".  If no one chuckles afterwards, the person who said it is allowed to berate the person for not remembering Die Hard, or even worse, not seeing it.  If there is someone who hasn't seen it, end the raid and transition to the Battleborn Guide to watching Die Hard, coming soon.*
+*At this point someone should say "Scheiss dem fenster".  If no one chuckles afterwards, the person who said it is allowed to berate the person for not remembering Die Hard, or even worse, not seeing it.  If there is someone who hasn't seen it, end the raid and transition to the Battleborn Guide to watching Die Hard, coming soon.*
 
 Shoot the glass.  Kill the bad guys behind the glass.  Go over to the statue that is holding an orb and slam it home.  You should be a *bit* ashamed you needed me to tell you that.
 
 So....you slammed the orb.  No portal yet.  No other orbs.....so do we just wait?  Maybe the portal is being run by Comcast so it's a bit slow?
 
-Well as much as I'd love to blame Comcast, in this case the orbs HAVE come back, but they're outside the room.  One to the left, and one to the right *(symetry!)*.  At this point you'll need to split into three teams.
+Well as much as I'd love to blame Comcast, in this case the orbs HAVE come back, but they're outside the room.  One to the left, and one to the right *(symmetry!)*.  At this point you'll need to split into three teams.
 * One going to the right
 * One going to the left
 * One staying in the middle

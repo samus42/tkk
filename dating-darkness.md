@@ -57,6 +57,16 @@ You want to spice things up a bit!  A Taken Knight is not to be courted lightly,
 * How to keep it happy: S'mores.
 * What it hates: The ocean.  Jellyfish freak it out.
 
+## Taken Psion
+Bah, why have one Taken, when you can have many!  Perfect for the Guardian with way too much free time on their hands.
+
+* Good opening line: "Double the fun?".
+* Best strategy: Catnaps, stay hydrated.
+* What it likes: Buy one get one free deals, doesn't matter what it is.
+* Where to take it: Country line dancing.  
+* How to keep it happy: Role play. With elaborate scripts.
+* What it hates: Alone time.
+
 ## The Shade of Oryx
 Ah, you're one who likes to challenge of hunting prey.  The Shade is the ultimate 'plays hard to get' catch.  You can't come at this one straight ahead, it takes time, and planning, and ... chocolate.
 
